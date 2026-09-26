@@ -1,0 +1,6 @@
+data/food_delivery_clean.json
+India-Food-Delivery-Time-Prediction.txt
+parquet/
+checkpoint/
+.env
+__pycache__/
